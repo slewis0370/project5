@@ -1,0 +1,143 @@
+body{
+    background-color: #F6F6F6;
+    color: #191919;
+    font-family: Constantia, 'Lucida Bright', 'DejaVu Serif', Georgia, 'serif';
+    font-size: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(bluebackground.png);
+    background-attachment: scroll;
+}
+body h1 {
+}
+
+
+
+
+
+
+
+header {
+    width: 768px;
+    height: 250px;
+    background-color: rgba(254,152,154,1.00);
+    background-image: url(ts_header.png);
+}
+main {
+    width: 768px;
+    background-color: rgba(255,255,255,1.00);
+    height: 800px;
+}
+h2 {
+    text-align: left;
+    padding-left: 160px;
+    color: #90B9EE;
+}
+#container {
+    width: 768px;
+    height: 1000px;
+    text-align: center;
+    margin: auto;
+    background-color: rgba(255,255,255,1.00);
+}
+h1 {
+    padding-left: 160px;
+    text-align: left;
+}
+aside {
+    width: 150px;
+}
+
+aside  {
+    width: 150px;
+    background-color: rgba(161,216,232,1.00);
+    float: left;
+    height: 900px;
+}
+footer {
+    width: 770px;
+    height: 150px;
+    min-width: 0px;
+    background-color: rgba(255,255,255,1.00);
+}
+input {
+    text-align: left;
+}
+p {
+    font-family: Politica;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 0px;
+    height: auto;
+    max-width: 595px;
+}
+img {
+    float: right;
+}
+nav {
+    width: 650px;
+    height: 50px;
+}
+#container nav li {
+    display: block;
+    list-style-type: none;
+    margin: 0px 40px 0px 0px;
+    width: 60px;
+    float: left;
+    text-decoration: none;
+    text-align: left;
+}
+#container nav ul {
+    margin: auto;
+    width: 450px;
+    text-align: justify;
+    float: right;
+}
+nav a:link {
+    color: #FFB570;
+}
+nav a:visited {
+    color: #FFD9B0;
+}
+nav a:hover {
+    color: #FFA770;
+	background-color: bisque;
+	padding:10px;
+	border-radius: 20px;
+}
+nav a:active {
+    color: #FF866D;
+}
+td {
+    text-align: left;
+}
+li {
+    text-align: left;
+    float: none;
+    padding-left: px;
+    list-style-position: inside;
+}
+h3 {
+    text-align: left;
+    color: #FFFFFF;
+}
+tbody tr th {
+}
+th {
+    background-color: rgba(249,238,174,1.00);
+}
+h1 {
+    font-family: Politica;
+    color: #90B9EE;
+}
+h2 {
+    font-family: Politica;
+}
+main main h2 {
+}
+main main h2 {
+}
+h3 {
+    font-family: Politica;
+    text-align: center;
+}
